@@ -16,7 +16,7 @@
 
 # About
 
-This is a living document of the skills and work that I will display to potential employers
+This is a living document of the skills and work that I will display to potential employers.
 
 ## Access
 
@@ -39,6 +39,13 @@ This will be where I display my skill of web development. Visitors will be able 
 
 
 ![Image of my portfolio ](assets/img/portfolio/portfolio.png)
+
+
+
+![Image of my portfolio ](assets/img/portfolio/portfolio1.png)
+
+
+![Image of my portfolio ](assets/img/portfolio/portfolio2.png)
 
 
 
